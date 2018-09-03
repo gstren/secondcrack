@@ -1,3 +1,5 @@
+GSCrack is a fork from Second Crack.
+
 Second Crack is a basic static-file blog engine using Markdown-formatted text files as input.
 
 # Warning
